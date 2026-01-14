@@ -79,7 +79,7 @@ image-editor/
 
 ---
 ⚙️ How It Works
-
+```
 1.User selects an image from their device
 
 2.Image is loaded into an HTML <canvas>
@@ -91,74 +91,74 @@ image-editor/
 5.Canvas is redrawn in real time
 
 6.Final image can be downloaded instantly
-
+```
 ---
 
 ▶️ Run Locally
 
 No installation or build tools required.
-
+```
 Method 1: Direct Open
 Open index.html in any modern browser
 
 Method 2: Live Server (Recommended)
 Right-click index.html → Open with Live Server
-
+```
 ---
 
 🔄 Reset & Download
-
-Reset Button
+```
+1. Reset Button
 Restores all filters to default values
 
-Download Button
+2. Download Button
 Exports the edited image as edited-image.png
-
+```
 ---
 
 📚 What I Learned
+```
+▪️Working with HTML5 Canvas
 
-Working with HTML5 Canvas
+▪️Real-time image manipulation
 
-Real-time image manipulation
+▪️Dynamic UI generation with JavaScript
 
-Dynamic UI generation with JavaScript
+▪️Filter chaining & performance handling
 
-Filter chaining & performance handling
+▪️Clean UI design using CSS variables
 
-Clean UI design using CSS variables
-
-Structuring scalable frontend projects
-
+▪️Structuring scalable frontend projects
+```
 ---
 
 🚧 Future Improvements
 
-Crop & rotate tools
+▪️Crop & rotate tools
 
-Undo / redo functionality
+▪️Undo / redo functionality
 
-Zoom & pan support
+▪️Zoom & pan support
 
-Drag & drop image upload
+▪️Drag & drop image upload
 
-Mobile touch gestures
+▪️Mobile touch gestures
 
-Export as JPG / WebP
+▪️Export as JPG / WebP
 
 ---
 
 🤝 Contributing
 
-Contributions are welcome!
+▪️Contributions are welcome!
 
-Fork the repository
+▪️Fork the repository
 
-Create a new branch
+▪️Create a new branch
 
-Make your changes
+▪️Make your changes
 
-Submit a pull request
+▪️Submit a pull request
 
 ---
 
