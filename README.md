@@ -78,8 +78,8 @@ image-editor/
 ```
 
 ---
-⚙️ How It Works
-```
+## ⚙️ How It Works
+
 1.User selects an image from their device
 
 2.Image is loaded into an HTML <canvas>
@@ -91,33 +91,33 @@ image-editor/
 5.Canvas is redrawn in real time
 
 6.Final image can be downloaded instantly
-```
+
 ---
 
-▶️ Run Locally
+## ▶️ Run Locally
 
 No installation or build tools required.
-```
+
 Method 1: Direct Open
 Open index.html in any modern browser
 
 Method 2: Live Server (Recommended)
 Right-click index.html → Open with Live Server
-```
+
 ---
 
-🔄 Reset & Download
-```
+## 🔄 Reset & Download
+
 1. Reset Button
 Restores all filters to default values
 
 2. Download Button
 Exports the edited image as edited-image.png
-```
+
 ---
 
-📚 What I Learned
-```
+## 📚 What I Learned
+
 ▪️Working with HTML5 Canvas
 
 ▪️Real-time image manipulation
@@ -129,7 +129,7 @@ Exports the edited image as edited-image.png
 ▪️Clean UI design using CSS variables
 
 ▪️Structuring scalable frontend projects
-```
+
 ---
 
 🚧 Future Improvements
